@@ -4,3 +4,5 @@ I'm a computer technician. For more info, check out my [resume](https://github.c
 
 Also, check out my [Linkedin](https://www.linkedin.com/in/francisco-califano-277a71284/).
 
+\# Open to work
+
